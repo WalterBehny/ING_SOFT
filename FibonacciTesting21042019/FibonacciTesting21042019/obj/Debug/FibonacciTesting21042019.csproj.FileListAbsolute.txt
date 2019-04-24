@@ -1,0 +1,7 @@
+C:\Users\lomej\source\repos\FibonacciTesting21042019\FibonacciTesting21042019\obj\Debug\FibonacciTesting21042019.csprojAssemblyReference.cache
+C:\Users\lomej\source\repos\FibonacciTesting21042019\FibonacciTesting21042019\obj\Debug\FibonacciTesting21042019.csproj.CoreCompileInputs.cache
+C:\Users\lomej\source\repos\FibonacciTesting21042019\FibonacciTesting21042019\bin\Debug\FibonacciTesting21042019.exe.config
+C:\Users\lomej\source\repos\FibonacciTesting21042019\FibonacciTesting21042019\bin\Debug\FibonacciTesting21042019.exe
+C:\Users\lomej\source\repos\FibonacciTesting21042019\FibonacciTesting21042019\bin\Debug\FibonacciTesting21042019.pdb
+C:\Users\lomej\source\repos\FibonacciTesting21042019\FibonacciTesting21042019\obj\Debug\FibonacciTesting21042019.exe
+C:\Users\lomej\source\repos\FibonacciTesting21042019\FibonacciTesting21042019\obj\Debug\FibonacciTesting21042019.pdb
